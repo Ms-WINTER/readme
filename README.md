@@ -12,7 +12,7 @@ Hello! I’m Ms-WINTER, a passionate student and creative designer with a love f
 
 ## 🛠️ Languages & Skills
 
-- **Programming:** Java, Python, SQL, C, C++
+- **Programming:** Java, Python, SQL, C, C++, R
 - **Design:** UI/UX principles, digital creativity, and visual storytelling
 
 ---
