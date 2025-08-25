@@ -1,4 +1,3 @@
-# readme
 # Hi there, I’m Ms-WINTER! 👋
 
 🎓 **Student** | 🎨 **Designer** | 💻 **Aspiring Developer**
